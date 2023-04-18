@@ -5,3 +5,13 @@
 .login-ul li:hover {
   background-color: greenyellow;
 }
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.chat-list {
+  background-color: antiquewhite;
+  height: 85vh;
+  margin-top: 1em;
+}
