@@ -10,7 +10,7 @@ export default function Login(props) {
   ]
 
   return (
-    <div className="col-md-3 container bg-light py-3 rounded-top rounded-bottom">
+    <div className="col-md-3 container opacity-0 py-3 rounded-top rounded-bottom align-self-center">
       <div className="row justify-content-center font-weight-bold">
         <mark>Who are you?</mark>
       </div>
